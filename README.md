@@ -79,3 +79,13 @@ SDW2025_Projeto_Portifólio/
 
 Mesmo com limitações, especialmente relacionadas à cota da API da OpenAI, foi possível construir uma estrutura funcional, documentada e totalmente independente da API original.
 Esse projeto demonstra domínio de manipulação de dados, criação de fontes alternativas e integração com Google Colab.
+
+
+
+🙏 5. Agradecimentos
+
+Este projeto também é um reflexo do impacto positivo da jornada proporcionada pela DIO (Digital Innovation One).A toda a equipe, meu sincero agradecimento pela dedicação, pelos conteúdos de qualidade e pela motivação constante em incentivar estudantes e profissionais a evoluírem na prática.
+
+Obrigado por criarem um ambiente acessível, acolhedor e transformador. Cada módulo, desafio e mentoria contribuíram diretamente para minha evolução — e este portfólio é uma prova disso. 💙
+
+
