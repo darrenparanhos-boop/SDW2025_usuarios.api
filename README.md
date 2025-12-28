@@ -1,4 +1,7 @@
-SDW2025 – Projeto Portfólio
+SDW2025 – Pipeline ETL Portifólio
+
+
+
 
 
 
@@ -10,13 +13,14 @@ Este projeto tem como objetivo construir um portfólio baseado em dados estrutur
 O trabalho surgiu da necessidade de contornar a indisponibilidade da API oficial da SDW2025, garantindo autonomia e continuidade no desenvolvimento.
 
 🚀 2. Etapas do Desenvolvimento
+
 2.1 Criação da Base de Dados
 
 Devido ao desligamento temporário da API do curso, foi necessário criar uma estrutura própria de dados.
 
 Foram criados os arquivos:
 
-usuarios.json — contém todas as informações completas dos usuários.
+dados.json — contém todas as informações completas dos usuários.
 
 SDW2025-userID.csv — arquivo auxiliar contendo apenas os IDs para uso direto no Google Colab.
 
@@ -58,12 +62,15 @@ RateLimitError: Error code: 429 - {'error': {'message': 'You exceeded your curre
 Esse erro indica que o limite de uso da conta foi atingido, impossibilitando continuar usando a API naquele momento.
 
 📁 3. Estrutura do Projeto
+
 SDW2025_Projeto_Portifólio/
 │
 ├── dados.json                # Base completa dos usuários
 ├── SDW2025-userID.csv        # Lista dos IDs
 ├── README.md                 # Documentação
 └── exemplo_colab.ipynb       # Exemplo opcional para uso no Colab
+
 🧾 4. Conclusão
 
-Mesmo com limitações, especialmente relacionadas à cota da API da OpenAI, foi possível construir uma estrutura funcional, documentada e totalmente independente da API original. Esse projeto demonstra domínio de manipulação de dados, criação de fontes alternativas e integração com Google Colab.
+Mesmo com limitações, especialmente relacionadas à cota da API da OpenAI, foi possível construir uma estrutura funcional, documentada e totalmente independente da API original.
+Esse projeto demonstra domínio de manipulação de dados, criação de fontes alternativas e integração com Google Colab.
