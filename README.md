@@ -64,10 +64,15 @@ Esse erro indica que o limite de uso da conta foi atingido, impossibilitando con
 📁 3. Estrutura do Projeto
 
 SDW2025_Projeto_Portifólio/
+
 │
+
 ├── dados.json                # Base completa dos usuários
+
 ├── SDW2025-userID.csv        # Lista dos IDs
+
 ├── README.md                 # Documentação
+
 └── exemplo_colab.ipynb       # Exemplo opcional para uso no Colab
 
 🧾 4. Conclusão
