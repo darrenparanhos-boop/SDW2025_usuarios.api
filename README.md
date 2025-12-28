@@ -16,7 +16,7 @@ Devido ao desligamento temporário da API do curso, foi necessário criar uma es
 
 Foram criados os arquivos:
 
-dados.json — contém todas as informações completas dos usuários.
+usuarios.json — contém todas as informações completas dos usuários.
 
 SDW2025-userID.csv — arquivo auxiliar contendo apenas os IDs para uso direto no Google Colab.
 
