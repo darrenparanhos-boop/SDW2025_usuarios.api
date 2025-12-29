@@ -1,4 +1,4 @@
-# 🚀 SDW2025 – Pipeline ETL Portfólio
+# 🚀 SDW2025 – Pipeline ETL Portifólio
 
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/your-username/SDW2025_Projeto_Portifolio)
 ![Python Version](https://img.shields.io/badge/Python-3.10+-blue)
