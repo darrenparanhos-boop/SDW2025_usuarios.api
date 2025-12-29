@@ -130,7 +130,7 @@ Apesar de limitações como cotas da API da OpenAI, o projeto demonstra domínio
 * Uso do GitHub como fonte estática
 * Execução completa via Google Colab
 
-Este portfólio reflete capacidade técnica, adaptação a problemas reais e documentação profissional.
+Este portfólio reflete capacidade técnica, adaptação a problemas reais e documentação para análise.
 
 ---
 
